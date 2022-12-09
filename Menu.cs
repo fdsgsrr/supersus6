@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
-
+   //абоба
     public void NewGame()
     {
         SceneManager.LoadScene(1);
